@@ -9,7 +9,7 @@ You can install all of these modules by running one simple command:
 <pre><code>sudo pip install -r requirements.txt
 </code></pre>
 # Running Script
-<pre><code>python3 script.py
+<pre><code>python3 RawURL.py
 </code></pre>
 # Verision
 Currently 1.0
