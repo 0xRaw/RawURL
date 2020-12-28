@@ -10,6 +10,8 @@ You can install all of these modules by running one simple command:
 <pre><code>sudo pip install -r requirements.txt
 </code></pre>
 # Verision
-1.0
+Currently 1.0
 # Special Thanks
 To <a href="https://twitter.com/u0pattern">Ziad</a> and <a href="https://twitter.com/R4kaaaN">Rakan</a>
+# Small Note
+if you have any notes about the script you can reach me on my twitter account : <a href="https://twitter.com/0xRaw">0xRaw</a>
