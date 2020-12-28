@@ -6,7 +6,7 @@ It helps penetration testers and bug hunters collect and gather subdomains for t
 </code></pre>
 # Dependencies
 RawURL depends on the requests, sublist3r and colorama python modules.
-You can install all these modules by running one command:
+You can install all of these modules by running one simple command:
 <pre><code>sudo pip install -r requirements.txt
 </code></pre>
 # Verision
