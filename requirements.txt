@@ -1,0 +1,3 @@
+requests
+sublist3r
+colorama
