@@ -1,6 +1,5 @@
 # RawURL
-<b>RawURL</b> is tool used to enumarate subdomains and curl the subdomains returning the response of each subdomain (as status code).
-It helps penetration testers and bug hunters collect and gather subdomains for the domain they are targeting.
+<b>RawURL</b> is tool used to enumerate subdomains and curl the subdomains by returning the response of each subdomain (as status code). It helps penetration testers and bug hunters to collect and gather subdomains for the domain they are targeting.
 # Installation
 <pre><code>git clone https://github.com/0xRaw/RawURL.git
 </code></pre>
